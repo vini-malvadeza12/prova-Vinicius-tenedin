@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> prova tenedini </title>
+
+
+    <style>
+        #topbox {
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        .nome-topbox{
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .coluna1-caixa1{
+            width: 250px;
+            height: 250px;
+            background-color: black;
+            border: 2px solid goldenrod;
+            border-radius: 15px;
+            background: url(https://imageio.forbes.com/specials-images/imageserve/65ae5d872bd77bacef39dc22/Real-Madrid-star-Vinicius-Jr--used-social-media-to-poke-fun-at-his-goal-versus/960x0.jpg?format=jpg&width=960);
+            background-position: center;
+            background-size: cover;
+            margin: auto;
+            border: 5px solid white;
+            margin: 20px;
+        }
+
+        
+        
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+
+
+
+        .coluna2-caixa1{
+            width: 250px;
+            height: 250px;
+            background-color: black;
+            border: 2px solid goldenrod;
+            margin: 20px;
+            border-radius: 15px;
+            background: url(https://conteudo.imguol.com.br/c/esporte/a5/2023/10/01/darlan-durante-a-partida-entre-brasil-x-republica-tcheca-no-pre-olimpico-de-volei-1696176654003_v2_3x4.jpg);
+            background-position: center;
+            background-size: cover;
+            border: 5px solid white;
+        }
+
+        .coluna3-caixa1{
+            width: 250px;
+            height: 250px;
+            background-color: black;
+            border: 2px solid goldenrod;
+            border-radius: 15px;
+            background: url(https://lncimg.lance.com.br/cdn-cgi/image/width=850,height=530,quality=75,format=webp/uploads/2024/03/Arrascaeta-Flamengo.jpg);
+            background-position: center;
+            background-size: cover;
+            margin: auto;
+            border: 5px solid white;
+            margin: 20px;
+        }
+        
+        #ball {
+            width: 175px;
+            height: 175px;
+            border-radius: 50%;
+            background-color: black;
+            background: url(https://s2-ge.glbimg.com/7T9sslonnXjlrmipGEw3OMHBkpw=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2024/G/v/CbjBr3Ssu2KOR4KjGm5A/gettyimages-2152095716.jpg);
+            background-position: center;
+            background-size: cover;
+            margin: auto;
+        }
+       
+
+   
+       
+        
+
+       
+     
+
+       
+    </style>
+
+</head>
+
+<body class="body">
+
+
+    <div id="topbox">
+        <div id="ball">
+        </div>
+
+        <div>
+            <div class="nome-topbox">
+                <h2>Vinicius Ruiz Tenedini</h2>
+                <h3 class="corbtn">estudante TI</h3>
+            </div>
+
+           
+
+    </div>
+    <div id="bottombox">
+        <div class="container">
+
+           
+            <div name="coluna2">
+                <div class="coluna1-caixa1"></div>
+                <div class="coluna2-caixa1"></div>
+                <div class="coluna3-caixa1"></div>
+            </div>
+           
+
+        </div>
+
+
+
+
+
+</body>
+
+</html>
