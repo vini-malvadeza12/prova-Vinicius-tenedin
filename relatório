@@ -1,0 +1,22 @@
+# Tenedinimobilefirst
+
+Descrição breve do projeto, o que ele faz e por que é útil.
+
+--- O projeto é uma pagina contendo alguns dados da pessoa, que ela esta em modo mobile first e passa para modo desktop first. 
+É útil para colocar alguns dos seus dados pessoais para fazer alguém trabalho ou currículo.
+
+## Sumário
+
+# Introdução
+
+- Explicação do que o projeto faz: É um projeto que se ajusta de acordo com o aparelho que você usa
+- Objetivo e motivação para o desenvolvimento: O objetivo é aprender mais sobre o método mobile e desktop first. A motivação foi usar os meu ídolos para fazer a estrutura do site 
+- Tecnologias usadas (HTML, CSS, JavaScript, etc.): eu utilizei o HTML para fazer esse site
+
+---
+
+# Funcionalidades
+
+- **Funcionalidade 1:** Descrição da primeira funcionalidade.
+- **Funcionalidade 2:** Descrição da segunda funcionalidade.
+- **Funcionalidade 3:** Descrição da terceira funcionalidade.
